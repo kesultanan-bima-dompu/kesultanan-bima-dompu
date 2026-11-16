@@ -1,3 +1,12 @@
+## Project Context
+
+Before making any changes, read and follow these project documents (located in the repository root):
+
+- `PRD.md` — Product Requirements Document: scope, user personas, features, and non-functional requirements for the Portal Resmi & Ekosistem Digital Kesultanan Bima Dompu.
+- `DESIGN.md` — Design system / UI & UX guidelines for the project.
+
+Treat these files as the source of truth for product intent and design decisions. If a requested change conflicts with them, follow the documents (or ask for clarification).
+
 <!-- BEGIN:nextjs-agent-rules -->
 
 ## This is NOT the Next.js you know
